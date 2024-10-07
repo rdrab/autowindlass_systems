@@ -13,14 +13,14 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/fsd16/AutoWindlass/tree/main/AutoWindlass%20board%20config/autowindlass_boards_1.0.0.zip",
-          "archiveFileName": "autowindlass_boards_1.0.0",
-          "checksum": "MD5-2DF9EE6B8736F17B961180C21AB1B2BD",
-          "size": "24583421",
+          "url": "https://github.com/rdrab/autowindlass_systems/blob/main/AutoWindlass%20board%20config/autowindlass_boards_1.0.0.zip",
+          "archiveFileName": "autowindlass_boards_1.0.0.zip",
+          "checksum": "SHA-256:244fb0164f4931fb0dfb2b62e56c1bf97e6b183cd42654af2987c50f69afa366",
+          "size": "20506843",
           "boards": [
             {
               "name": "AutoWindlass B32H12 ESP32"
-            },
+            }
            
           ],
           "help": {},
