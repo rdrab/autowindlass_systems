@@ -13,7 +13,7 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "ESP32",
-          "url": "https://github.com/rdrab/autowindlass_systems/blob/main/AutoWindlass%20board%20config/autowindlass_boards_1.0.0.zip",
+          "url": "https://github.com/rdrab/autowindlass_systems/raw/refs/heads/main/AutoWindlass%20board%20config/autowindlass_boards_1.0.0.zip",
           "archiveFileName": "autowindlass_boards_1.0.0.zip",
           "checksum": "SHA-256:8a06808ca3a05c47a132c922fdb88c15eeaecfcb23ee5193f489bdf67e78167f6",
           "size": "20506843",
